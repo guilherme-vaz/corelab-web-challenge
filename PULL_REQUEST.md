@@ -28,7 +28,6 @@ Esse repositório é apenas referente ao <b>front-end</b> da aplicação. O cód
 - <b>NPM ^8.5.5</b>: Como gerenciador de pacotes.
 
 - <b>ESLint</b>: Apenas para desenvolvimento, auxilia na padronização do código, a partir de regras pré-configuradas.
-    - <b>@rocketseat/eslint-config</b>: conjunto de regras para o eslint - detalhe que a regra "end of line" foi modificada. 
 
 - <b>Sass</b>: Aerramenta para auxiliar na estilização de componentes.
 
